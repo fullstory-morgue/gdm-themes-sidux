@@ -1,0 +1,11 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Encoding=UTF-8
+Greeter=gnome-nld.xml
+Name=sidux
+Description=sidux theme
+Author=Horst Tritremmel <hjt@sidux.com>
+Copyright= 2007 Horst Tritremmel
+Screenshot=screenshot.png
