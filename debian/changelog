@@ -1,6 +1,12 @@
-gdm-themes-sidux (0.0.1-1) unstable; urgency=low
+gdm-themes-sidux (0.0.1) unstable; urgency=low
 
+  [ Horst Tritremmel ]
   * Initial release
 
- -- Horst Tritremmel <hjt@sidux.com>  Thu,  8 Mar 2007 13:33:33 +0100
+  [ Stefan Lippers-Hollmann ]
+  * move buildsystem to cdbs.
+  * various fixes/ clean-ups.
+  * make it a native package.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 31 Mar 2007 02:02:54 +0200
 

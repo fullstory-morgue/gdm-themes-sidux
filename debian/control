@@ -1,13 +1,13 @@
 Source: gdm-themes-sidux
-Section: unknown
+Section: gnome
 Priority: extra
 Maintainer: Horst Tritremmel <hjt@sidux.com>
-Build-Depends: debhelper (>= 5)
+Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.7.2
 
 Package: gdm-themes-sidux
-Architecture: any
-Depends: gdm (>> 2.4), desktop-base (>= 0.3.15)
+Architecture: all
+Depends: gdm (>> 2.4)
 Description: sidux theme for the GNOME Display Manager
  This package provides a additional sidux theme for the GNOME Display
  Manager's greeter, giving different looks to your graphical login
