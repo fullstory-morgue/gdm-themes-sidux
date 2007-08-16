@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: gdm-themes-sidux
 Architecture: all
-Depends: gdm (>> 2.4)
+Depends: gdm (>> 2.4), sidux-art-wallpaper-gaia
 Description: sidux theme for the GNOME Display Manager
  This package provides a additional sidux theme for the GNOME Display
  Manager's greeter, giving different looks to your graphical login

@@ -1,8 +1,12 @@
 gdm-themes-sidux (0.0.3) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 18 May 2007 00:52:00 +0200
+  [ Horst Tritremmel ]
+  * background changed to gaia
+
+ -- Horst Tritremmel <hjt@sidux.com>  Thu, 16 Aug 2007 13:00:23 +0200
 
 gdm-themes-sidux (0.0.2) unstable; urgency=low
 
