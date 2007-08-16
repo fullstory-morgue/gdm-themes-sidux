@@ -1,9 +1,5 @@
-gdm-themes-sidux (0.0.3) UNRELEASED; urgency=low
+gdm-themes-sidux (0.0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Horst Tritremmel ]
   * background changed to gaia
 
  -- Horst Tritremmel <hjt@sidux.com>  Thu, 16 Aug 2007 13:00:23 +0200
