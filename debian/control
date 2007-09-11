@@ -4,6 +4,8 @@ Priority: extra
 Maintainer: Horst Tritremmel <hjt@sidux.com>
 Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.7.2
+XS-Vcs-Svn: svn://svn.berlios.de/fullstory/gdm-themes-sidux/trunk
+XS-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/gdm-themes-sidux/trunk/
 
 Package: gdm-themes-sidux
 Architecture: all
