@@ -1,3 +1,9 @@
+gdm-themes-sidux (0.0.5) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 18:45:32 +0200
+
 gdm-themes-sidux (0.0.4) unstable; urgency=low
 
   * add VCS control headers.
