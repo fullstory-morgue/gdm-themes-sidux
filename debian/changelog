@@ -1,8 +1,8 @@
-gdm-themes-sidux (0.3) UNRELEASED; urgency=low
+gdm-themes-sidux (0.3) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to the new dh implementation of debhelper 7.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 20 Feb 2008 22:35:39 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 01:15:11 +0200
 
 gdm-themes-sidux (0.2) unstable; urgency=low
 
