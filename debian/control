@@ -2,7 +2,7 @@ Source: gdm-themes-sidux
 Section: gnome
 Priority: extra
 Maintainer: Horst Tritremmel <hjt@sidux.com>
-Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>, Joaquim Boura <x-un-i@sidux.com>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.8.0
 Vcs-Svn: svn://svn.berlios.de/fullstory/gdm-themes-sidux/trunk
@@ -10,7 +10,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/gdm-themes-sidux/trunk/
 
 Package: gdm-themes-sidux
 Architecture: all
-Depends: gdm (>> 2.4), sidux-art-wallpaper-gaia
+Depends: gdm (>> 2.4), sidux-art-wallpaper-ourea
 Description: sidux theme for the GNOME Display Manager
  This package provides a additional sidux theme for the GNOME Display
  Manager's greeter, giving different looks to your graphical login
