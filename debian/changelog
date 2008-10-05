@@ -1,10 +1,7 @@
-gdm-themes-sidux (0.5) UNRELEASED; urgency=low
+gdm-themes-sidux (0.5) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Joaquim Boura ]
-  * Fixed depends. Added my self to uploaders.
+  * Fixed depends.
+  * Added my self to uploaders.
 
  -- Joaquim Boura <x-un-i@sidux.com>  Sat, 04 Oct 2008 15:00:58 +0200
 
