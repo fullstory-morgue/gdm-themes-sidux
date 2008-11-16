@@ -1,8 +1,8 @@
-gdm-themes-sidux (0.6) UNRELEASED; urgency=low
+gdm-themes-sidux (0.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * depend on the generic release wallpaper instead of a specific one.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 05 Oct 2008 03:08:22 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 19:35:45 +0100
 
 gdm-themes-sidux (0.5) unstable; urgency=low
 

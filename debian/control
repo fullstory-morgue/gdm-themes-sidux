@@ -10,7 +10,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/gdm-themes-sidux/trunk/
 
 Package: gdm-themes-sidux
 Architecture: all
-Depends: gdm (>> 2.4), sidux-art-wallpaper-ourea
+Depends: gdm (>> 2.4), sidux-art-wallpaper
 Description: sidux theme for the GNOME Display Manager
  This package provides a additional sidux theme for the GNOME Display
  Manager's greeter, giving different looks to your graphical login
