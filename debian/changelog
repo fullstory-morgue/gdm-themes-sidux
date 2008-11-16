@@ -1,8 +1,9 @@
-gdm-themes-sidux (0.7) UNRELEASED; urgency=low
+gdm-themes-sidux (0.7) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 19:36:57 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 16 Nov 2008 19:47:27 +0100
 
 gdm-themes-sidux (0.6) unstable; urgency=low
 
